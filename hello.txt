@@ -1,0 +1,9 @@
+
+hello world
+this is my first time to use Linux
+:wq
+
+B
+A
+A
+
